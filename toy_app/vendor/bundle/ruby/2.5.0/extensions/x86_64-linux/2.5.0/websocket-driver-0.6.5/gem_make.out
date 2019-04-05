@@ -1,0 +1,15 @@
+current directory: /home/rox/codebase/ruby/toy_app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/bin/ruby2.5 -r ./siteconf20190405-20523-9migdg.rb extconf.rb
+creating Makefile
+
+current directory: /home/rox/codebase/ruby/toy_app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/rox/codebase/ruby/toy_app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/rox/codebase/ruby/toy_app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20190405-20523-viwkn6
